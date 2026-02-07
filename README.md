@@ -4,7 +4,7 @@
 ## 8. Implementation of passing parameters.
 # Ex.No:16
   Implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid. The program should check the correctness of the day, month, and year, including leap year calculations for February.
- 
+# Date : 
 # Aim:
  To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 # Algorithm:
@@ -41,7 +41,7 @@
 ### Step 14: 
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Function without parameters and without return value
@@ -154,7 +154,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Function to find maximum
@@ -243,7 +243,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3: Function prototypes
@@ -333,7 +333,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3: Define constants
@@ -430,7 +430,7 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>   // for toupper()
